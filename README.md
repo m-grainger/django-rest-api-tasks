@@ -1,4 +1,7 @@
 # django-rest-api-tasks
 Basic API using Django REST Framework
 
-# TO-DO: *everything*!
+Set routes and serialization for Heros. 
+
+#to:do
+add 'villians'
